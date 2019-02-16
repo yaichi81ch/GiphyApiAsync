@@ -1,0 +1,25 @@
+.body {
+  background-color: wheat;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 5px 10px;
+}
+
+.title {
+  color: #36454f;
+}
+
+.list {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+.item {
+  width: 10%;
+}
+
+.image {
+  width: 100%;
+}
